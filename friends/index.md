@@ -12,10 +12,10 @@
 满足上述基本要求，互换友链请按以下格式在评论区留言：
 
 ````markdown
-- nickname: 名字
-  avatar: 头像
-  url: 站点链接
-  description: 站点说明
+- nickname: 针草堂
+  avatar: http://img.xingtan.one/i/2025/04/29/68105eede4422.webp
+  url: https://acuherb.github.io/
+  description: 针通经络，草养气血。
 ````
 
 ## 失效链接
