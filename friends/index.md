@@ -6,7 +6,7 @@
 - **网络 ID**：vigdraw
 - **头像**：http://img.xingtan.one/i/2025/04/15/67fe5fcd6a66f.webp
 - **URL**：https://vigdraw.github.io
-- **描述**：阴阳，五行，八卦
+- **描述**：阴阳，五行，八卦，内经，针灸，本草，伤寒，金匮
 
 ## 友链要求
 
